@@ -10,4 +10,4 @@ Este projeto aprendo a usar listas ordenadas e não ordenadas.
 
 ## Quer ajudar:
 
-Se você puder, colabore. Você vai ganhar muito ensinando outra pessoa.
+Se você puder, colabore. Você vai ganhar muito ensinando outra pessoa. 😁  📲
